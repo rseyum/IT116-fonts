@@ -1,0 +1,23 @@
+h1{
+    color:darkblue;
+    text-align: center;
+    font-weight: 400px;
+    font-size: 125px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    color:darkblue;
+    text-align: center;
+    font-weight: 400;
+    text-decoration: pink underline;
+}
+h3{
+    color:darkblue;
+    text-align: center;
+    font-weight: 400;
+    text-decoration: orange underline;
+}
+p{
+    line-height: 1.5;
+    
+}
